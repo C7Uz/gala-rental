@@ -29,3 +29,4 @@ include 'woo/rest-api/remover-cupon.php';
 include 'woo/metodo-de-pago-izi-pay.php';
 include 'woo/medidas-talla.php';
 include 'woo/opciones-edicion-producto.php';
+include 'woo/formulario-alquiler-manual.php';
